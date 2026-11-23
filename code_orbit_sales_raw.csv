@@ -1,0 +1,104 @@
+﻿order_id,order_date,customer_name,product,category,region,quantity,unit_price,payment_method,sales_rep,discount_pct,order_status
+ORD-0001,2026-01-04,Ananya Rao,Bluetooth Speaker,Electronics,South,5.0,1499.0,UPI,Nisha,0,Cancelled
+ORD-0002,2026-01-05,Ananya Rao,Water Bottle,Accessories,South,1.0,331.55,Net Banking,Nisha,0,Cancelled
+ORD-0003,11-03-2026,Sana Khan,Gel Pen Set,Stationery,Central,7.0,120.0,Debit Card,Priya,0,Pending
+ORD-0004,2026-02-05,,Study Desk,Furniture,East,3.0,7999.0,UPI,Priya,10,Completed
+ORD-0005,2026-02-14,Aditi Joshi,Study Desk,Furniture,West,5.0,7599.05,Net Banking,Priya,10,Completed
+ORD-0006,2026-02-16,Aarav Sharma,Office Chair,Furniture, south ,4.0,5224.05,Debit Card,Priya,0,Completed
+ORD-0007,2026-02-05,Kabir Mehta,Water Bottle,Accessories,East,8.0,349.0,Debit Card,Rahul,5,Completed
+ORD-0008,2026-03-10,Sana Khan,Notebook Pack,Stationery,West,4.0,180.0,Debit Card,Nisha,0,Completed
+ORD-0009,2026-01-30,Arjun Kumar,Wireless Mouse,Electronics,,1.0,599.0,UPI,Rahul,15,Completed
+ORD-0010,2026-03-05,Kabir Mehta,Gel Pen Set, electronics ,East,7.0,126.0,Credit Card,Rahul,15,Cancelled
+ORD-0011,2026-03-16,Meera Nair,Office Chair,Furniture,South,7.0,5773.95,Credit Card,Nisha,10,Completed
+ORD-0012,2026-01-15,Neel Verma,Wireless Mouse,Electronics,West,3.0,599.0,Net Banking,Priya,10,Pending
+ORD-0013,2026-03-09,Vivaan Patel,Backpack,Accessories,North,,1234.05,Net Banking,Sneha,5,Completed
+ORD-0014,2026-02-25,Aarav Sharma,Office Chair,Furniture,East,3.0,5773.95,Net Banking,Rahul,15,Completed
+ORD-0015,2026-03-06,Meera Nair,Office Chair,Furniture,NORTH,4.0,5499.0,Net Banking,Nisha,0,Cancelled
+ORD-0016,2026-03-04,Dev Singh,Study Desk,Furniture,East,1.0,7599.05,Debit Card,Rahul,0,Completed
+ORD-0017,2026-01-11,Neel Verma,Bluetooth Speaker,Electronics,Central,8.0,1424.05,Credit Card,Rahul,10,Cancelled
+ORD-0018,03/02/2026,Dev Singh,Notebook Pack,Stationery,Central,7.0,180.0,Credit Card,Sneha,10,Completed
+ORD-0019,2026-03-08,,Backpack,Accessories,South,8.0,1234.05,UPI,Sneha,0,Cancelled
+ORD-0020,2026-03-17,Diya Reddy,Gel Pen Set,Stationery,North,4.0,114.0,Credit Card,Priya,0,Completed
+ORD-0021,2026-03-07,Vivaan Patel,Bluetooth Speaker,Electronics,West,4.0,1499.0,Credit Card,Nisha,0,Cancelled
+ORD-0022,2026-02-01,Ananya Rao,Backpack,Accessories,North,8.0,1363.95,UPI,Karthik,5,Pending
+ORD-0023,2026-03-01,Aarav Sharma,Water Bottle,Accessories,West,1.0,,Debit Card,Priya,0,Completed
+ORD-0024,2026-03-10,Arjun Kumar,Gel Pen Set,Stationery,South,8.0,120.0,Debit Card,Karthik,0,Completed
+ORD-0025,2026-03-12,Vivaan Patel,Backpack,Accessories,Central,2.0,1234.05,UPI,Priya,0,Completed
+ORD-0026,2026-03-04,Ira Menon,Water Bottle,Accessories,West,8.0,349.0,UPI,Rahul,10,Completed
+ORD-0027,2026-02-03,Arjun Kumar,Water Bottle,Accessories,Central,8.0,349.0,Cash,Rahul,0,Completed
+ORD-0028,2026-01-08,Aarav Sharma,Gel Pen Set,STATIONERY,North,1.0,120.0,Net Banking,Karthik,15,Cancelled
+ORD-0029,2026-01-08,Diya Reddy,Notebook Pack,Stationery,Central,2.0,180.0,UPI,Rahul,10,Completed
+ORD-0030,2026-03-16,Arjun Kumar,Gel Pen Set,Stationery,,1.0,114.0,Net Banking,Nisha,5,Completed
+ORD-0031,2026-02-10,Arjun Kumar,Gel Pen Set,Stationery,South,4.0,120.0,Debit Card,Karthik,5,Completed
+ORD-0032,2026-02-28,Rohan Das,Wireless Mouse,Electronics,South,2.0,"₹1,499.00",Net Banking,Sneha,0,Completed
+ORD-0033,2026-02-01,Kabir Mehta,Bluetooth Speaker,Electronics,West,6.0,1499.0,Net Banking,Sneha,15,Cancelled
+ORD-0034,2026-03-12,Dev Singh,Wireless Mouse,Electronics,South,5.0,569.05,Debit Card,Priya,0,Cancelled
+ORD-0035,2026-02-04,Aditi Joshi,Notebook Pack,Stationery,East,5.0,180.0,Credit Card,Sneha,15,Pending
+ORD-0036,2026-01-07,Ira Menon,Office Chair,Furniture,East,2.0,5773.95,UPI,Priya,5,Completed
+ORD-0037,2026-01-21,Rohan Das,Office Chair,Furniture,east,8.0,5773.95,UPI,Priya,0,Cancelled
+ORD-0038,2026-02-17,Kabir Mehta,Wireless Mouse,Electronics,North,3.0,628.95,Debit Card,Sneha,0,Completed
+ORD-0039,"Feb 01, 2026",Neel Verma,Gel Pen Set,Stationery,Central,2.0,120.0,Cash,Nisha,0,Completed
+ORD-0040,2026-01-23,Kabir Mehta,Notebook Pack,Stationery,East,7.0,171.0,Cash,Rahul,5,Completed
+ORD-0041,2026-02-18,Ananya Rao,Bluetooth Speaker,Electronics,South,1.0,1573.95,Cash,Sneha,5,Completed
+ORD-0042,2026-01-04,,Gel Pen Set,Stationery,East,4.0,126.0,UPI,Sneha,5,Cancelled
+ORD-0043,2026-03-10,Diya Reddy,Water Bottle,Accessories,East,6.0,331.55,Credit Card,Nisha,5,Completed
+ORD-0044,2026-02-25,Arjun Kumar,Bluetooth Speaker,Electronics,Central,6.0,1499.0,Net Banking,Priya,10,Cancelled
+ORD-0045,2026-02-02,Aarav Sharma, wireless mouse ,Stationery,Central,1.0,126.0,Net Banking,Rahul,5,Pending
+ORD-0046,2026-02-12,Aditi Joshi,Bluetooth Speaker,Electronics,East,6.0,1424.05,Net Banking,Sneha,10,Completed
+ORD-0047,2026-02-07,Arjun Kumar,Water Bottle,Accessories,West,3.0,349.0,Credit Card,Nisha,15,Completed
+ORD-0048,2026-03-12,Ishaan Gupta,Water Bottle,Accessories,South,1.0,349.0,Cash,Nisha,15,Completed
+ORD-0049,2026-02-26,Rohan Das,Backpack,Accessories,West,8.0,1299.0,Credit Card,Priya,5,Cancelled
+ORD-0050,2026-01-12,Ananya Rao,Study Desk,Furniture,South,4.0,7999.0,Credit Card,Priya,0,Completed
+ORD-0051,2026-01-10,Dev Singh,Backpack,Accessories,Central,8.0,1363.95,Credit Card,Karthik,10,Pending
+ORD-0052,2026-01-19,Neel Verma,Gel Pen Set,Stationery,West,1.0,114.0,Credit Card,Rahul,15,Pending
+ORD-0053,2026-03-13,Sana Khan,Wireless Mouse,Electronics,South,4.0,569.05,Cash,Nisha,15,Cancelled
+ORD-0054,2026-02-26,Dev Singh,Study Desk,Furniture,South,7.0,8398.95,Cash,Karthik,5,Completed
+ORD-0055,2026-03-08,Ishaan Gupta,Office Chair,Furniture,West,8.0,5499.0,UPI,Sneha,0,Completed
+ORD-0056,2026-02-10,Kabir Mehta,Study Desk,Furniture,South,2.0,7999.0,Cash,Rahul,0,Completed
+ORD-0057,2026-02-22,Arjun Kumar,Water Bottle,Accessories,North,,366.45,Credit Card,Karthik,10,Cancelled
+ORD-0058,2026-03-15,Aarav Sharma,Wireless Mouse,Electronics,East,7.0,628.95,Debit Card,Karthik,10,Cancelled
+ORD-0059,2026-03-04,Arjun Kumar,Gel Pen Set,Stationery,West,4.0,120.0,UPI,Karthik,5,Pending
+ORD-0060,2026-03-01,Dev Singh,Notebook Pack,Stationery,West,3.0,171.0,Net Banking,Nisha,0,Completed
+ORD-0061,2026-01-18,Aarav Sharma,Water Bottle,Accessories,East,8.0,349.0,Cash,Sneha,0,Pending
+ORD-0062,2026-02-13,Neel Verma,Study Desk,Furniture,West,7.0,7999.0,upi,Priya,10,Completed
+ORD-0063,2026-02-14,Neel Verma,Wireless Mouse,Electronics,North,4.0,569.05,UPI,Rahul,0,Completed
+ORD-0064,2026-01-31,Vivaan Patel,Notebook Pack,Stationery,North,3.0,189.0,Net Banking,Rahul,10,Completed
+ORD-0065,2026-01-22,Ishaan Gupta,Study Desk,Furniture,,2.0,7999.0,Net Banking,Priya,5,Cancelled
+ORD-0066,2026-02-20,Tara Iyer,Water Bottle,Accessories,South,4.0,331.55,UPI,Sneha,15,Completed
+ORD-0067,2026-02-14,Diya Reddy,Wireless Mouse,Electronics,Central,7.0,599.0,Debit Card,Priya,10,Pending
+ORD-0068,2026-02-25,Aditi Joshi,Bluetooth Speaker,Electronics,South,6.0,1573.95,Cash,Rahul,15,Completed
+ORD-0069,2026-03-01,Meera Nair,Backpack,Accessories,South,7.0, 599 ,UPI,Sneha,10,Completed
+ORD-0070,2026-03-14,Aarav Sharma,Backpack,Accessories,West,7.0,1299.0,Debit Card,Rahul,10,Completed
+ORD-0071,2026-02-03,Dev Singh,Study Desk,Furniture,Central,6.0,7999.0,Debit Card,Nisha,0,Cancelled
+ORD-0072,2026-01-11,Sana Khan,Gel Pen Set,Stationery,Central,4.0,126.0,Credit Card,Karthik,10,Pending
+ORD-0073,2026-01-12,Arjun Kumar,Wireless Mouse,Electronics,South,5.0,599.0, Credit Card ,Nisha,5,Pending
+ORD-0074,2026-02-24,Aditi Joshi,Study Desk,Furniture,West,6.0,7999.0,Debit Card,Sneha,5,Completed
+ORD-0075,2026-01-25,Aditi Joshi,Bluetooth Speaker,Electronics,Central,6.0,1424.05,Credit Card,Rahul,0,Pending
+ORD-0076,2026-03-17,Ira Menon,Office Chair,Furniture,South,5.0,5224.05,Debit Card,Rahul,5,Completed
+ORD-0077,2026-01-02,Aarav Sharma,Office Chair,Furniture,North,3.0,5499.0,Net Banking,Sneha,0,Pending
+ORD-0078,2026-01-02,,Bluetooth Speaker,Electronics,West,5.0,1573.95,Debit Card,Rahul,0,Completed
+ORD-0079,2026-01-15,Sana Khan,Backpack,Accessories,North,2.0,1363.95,Net Banking,Priya,0,Completed
+ORD-0080,2026-01-11,Rohan Das,Office Chair,Furniture,West,4.0,5224.05,Net Banking,Nisha,15,Completed
+ORD-0081,2026-02-27,Ira Menon,Water Bottle,Accessories,Central,8.0,349.0,Cash,Sneha,15,Cancelled
+ORD-0082,2026-01-13,Ishaan Gupta,Wireless Mouse,Electronics,North,4.0,599.0,Credit Card,Rahul,0,Cancelled
+ORD-0083,2026-01-21,Sana Khan,Bluetooth Speaker,Electronics,Central,1.0,1573.95,Cash,Sneha,0,Completed
+ORD-0084,2026-02-06,Vivaan Patel,Office Chair,Furniture,South,8.0,,Debit Card,Nisha,0,Pending
+ORD-0085,2026-03-11,Dev Singh,Bluetooth Speaker,Electronics,East,4.0,1499.0,Credit Card,Priya,0,Completed
+ORD-0086,2026-03-14,Diya Reddy,Office Chair,Furniture,West,5.0,5773.95,Debit Card,Karthik,5,Cancelled
+ORD-0087,2026-02-26,Dev Singh,Backpack,Accessories,West,2.0,1234.05,Debit Card,Nisha,5,Completed
+ORD-0088,2026-01-30,Tara Iyer,Bluetooth Speaker,Electronics,North,1.0,1499.0,Credit Card,Karthik,15,Pending
+ORD-0089,2026-01-24,Diya Reddy,Office Chair,Furniture,West,7.0,5773.95,Debit Card,Karthik,5,Completed
+ORD-0090,2026-01-21,Aditi Joshi,Bluetooth Speaker,Electronics,West,6.0,1573.95,Debit Card,Karthik,15,Completed
+ORD-0091,2026-01-12,  Meera Nair  ,Backpack,Accessories,North,6.0,1299.0,Cash,Nisha,0,Cancelled
+ORD-0092,2026-02-22,Rohan Das,Backpack,Accessories,East,1.0,1299.0,Net Banking,Karthik,10,Completed
+ORD-0093,2026-02-04,Sana Khan,Gel Pen Set,Stationery,West,3.0,120.0,UPI,Priya,15,Completed
+ORD-0094,2026-02-09,Diya Reddy,Notebook Pack,Stationery,South,1.0,189.0,UPI,Karthik,0,Completed
+ORD-0095,2026-02-07,Ira Menon,Backpack,Accessories,West,5.0,1363.95,Cash,Rahul,10,Cancelled
+ORD-0096,2026-02-19,Ira Menon,Notebook Pack,Stationery,North,4.0,"₹7,999",Debit Card,Karthik,5,Cancelled
+ORD-0097,2026-01-01,Ira Menon,Office Chair,Furniture,Central,5.0,5499.0,Net Banking,Karthik,0,Pending
+ORD-0098,2026-02-14,Sana Khan,Backpack,Accessories,East,6.0,1363.95,Credit Card,Rahul,15,Pending
+ORD-0099,2026-02-22,Aditi Joshi,Gel Pen Set,Stationery,West,1.0,120.0,Cash,Karthik,0,Pending
+ORD-0100,2026-01-17,Ira Menon,Wireless Mouse,Electronics,West,6.0,569.05,UPI,Nisha,10,Completed
+ORD-0007,2026-02-05,Kabir Mehta,Water Bottle,Accessories,East,8.0,349.0,Debit Card,Rahul,5,Completed
+ORD-0025,2026-03-12,Vivaan Patel,Backpack,Accessories,Central,2.0,1234.05,UPI,Priya,0,Completed
+ORD-0052,2026-01-19,Neel Verma,Gel Pen Set,Stationery,West,1.0,114.0,Credit Card,Rahul,15,Pending

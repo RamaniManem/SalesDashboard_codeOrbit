@@ -1,0 +1,50 @@
+
+CODE ORBIT INTERNSHIP
+TASK 2: SALES DATA ANALYSIS REPORT
+
+1. DATASET OVERVIEW
+Total records analyzed: 100
+Completed orders: 56
+Pending orders: 19
+Cancelled orders: 25
+
+2. KEY SALES METRICS
+Total revenue from completed orders: ₹568,385.48
+Average order value: ₹10,149.74
+Total units sold: 233.0
+
+3. TOP-PERFORMING PRODUCT
+Top product by revenue: Study Desk
+
+4. CATEGORY-WISE ANALYSIS
+   category  total_revenue  units_sold  number_of_orders
+  Furniture      471158.02        75.0                16
+Electronics       51422.17        45.0                12
+Accessories       38751.54        64.0                15
+ Stationery        7053.75        49.0                13
+
+5. REGION-WISE ANALYSIS
+ region  total_revenue  units_sold  number_of_orders
+   West      266625.66        87.0                19
+  South      205256.35        63.0                15
+   East       75424.78        41.0                10
+  North       12546.64        20.0                 6
+Central        8532.05        22.0                 6
+
+6. MONTHLY SALES ANALYSIS
+  month  total_revenue  units_sold  number_of_orders
+2026-01      124877.25        50.0                13
+2026-02      296925.53       102.0                25
+2026-03      146582.70        81.0                18
+
+7. CONCLUSION
+The sales dataset was analyzed using Pandas.
+Revenue, average order value, product performance,
+category performance, regional performance and monthly
+sales trends were calculated.
+
+Cancelled orders were excluded from revenue calculations.
+Pending and cancelled orders were reported separately.
+
+The analysis helps identify strong-performing products,
+categories and regions for business decision-making.
